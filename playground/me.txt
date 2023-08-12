@@ -1,5 +1,0 @@
-{{#vishwas501}}
-My name is vishwas Kumar
-Here are my skills : html, css ,js , next.js . 
-My email id is vishwasmanhas123@gmail.com.
- {{/vishwas501}}
